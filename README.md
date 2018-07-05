@@ -1,17 +1,17 @@
 **Description of Files**
 
-*model:* contains OneVsRest Logistic Regression model and TF-IDF vector used for training models  
-*reddit:* contains 12 pickled Reddit subreddits, files in the format subreddit_numberofcomments.pkl  
-*Binary_Classification_Models.ipynb:* Jupyter Notebook walkthrough of binary classification models  
-*CNN_word2vec.py:* CNN model built using keras and a word2vec embedding layer  
-*One_vs_Rest_Model.ipynb:* Jupyter Notebook walkthrough of OneVsRest model with Logistic Regression  
-*PRAW_comment_scraper.py:* code used to scrape Reddit using PRAW  
-*Topic_Modeling_NMF_LDA.ipynb:* Jupyter Notebook walkthrough of topic modeling using sk-learn's NMF and LDA  
-*data_sample.csv:* sample of data used to train model (Wikipedia talk page edits provided by Google / Jigsaw --> https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)  
-*label_encoder.pkl:* pickled MultiLabelBinarizer from sk-learn used to numberically encode classes (clean, toxic, severe toxic, obscene, threat, insult, and identity hate)  
-*predict_CNN.py:* code used to make predictions on new comments using CNN model  
-*predict_OvR.py:* code used to make predictions on new comments using OneVsRest with Logistic Regression model  
-*preprocess.py:* preprocessing of text for both CNN and OvR models  
+**model:** contains OneVsRest Logistic Regression model and TF-IDF vector used for training models  
+**reddit:** contains 12 pickled Reddit subreddits, files in the format subreddit_numberofcomments.pkl  
+**Binary_Classification_Models.ipynb:** Jupyter Notebook walkthrough of binary classification models  
+**CNN_word2vec.py:** CNN model built using keras and a word2vec embedding layer  
+**One_vs_Rest_Model.ipynb:** Jupyter Notebook walkthrough of OneVsRest model with Logistic Regression  
+**PRAW_comment_scraper.py:** code used to scrape Reddit using PRAW  
+**Topic_Modeling_NMF_LDA.ipynb:** Jupyter Notebook walkthrough of topic modeling using sk-learn's NMF and LDA  
+**data_sample.csv:** sample of data used to train model (Wikipedia talk page edits provided by Google / Jigsaw --> https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)  
+**label_encoder.pkl:** pickled MultiLabelBinarizer from sk-learn used to numberically encode classes (clean, toxic, severe toxic, obscene, threat, insult, and identity hate)  
+**predict_CNN.py:** code used to make predictions on new comments using CNN model  
+**predict_OvR.py:** code used to make predictions on new comments using OneVsRest with Logistic Regression model  
+**preprocess.py:** preprocessing of text for both CNN and OvR models  
 
 # Toxic Waste Removal: Classifying Harmful Comments on the Web  
   
