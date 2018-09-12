@@ -61,11 +61,11 @@ If I did this project again, the main thing I would do differently is stick to t
 
 **Resources I found helpful**
 
-https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
-https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
-https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
-https://motherboard.vice.com/en_us/article/539qaa/someone-quantified-which-subreddits-are-the-most-toxic
-https://phys.org/news/2017-07-net-neutrality-day-action-internet.html
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge  
+https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/  
+https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/  
+https://motherboard.vice.com/en_us/article/539qaa/someone-quantified-which-subreddits-are-the-most-toxic  
+https://phys.org/news/2017-07-net-neutrality-day-action-internet.html  
 
 **Contact**
 
